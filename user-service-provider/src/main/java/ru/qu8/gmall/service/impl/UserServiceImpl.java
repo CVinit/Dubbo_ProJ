@@ -1,10 +1,10 @@
-package com.atguigu.gmall.service.impl;
+package ru.qu8.gmall.service.impl;
+
+import ru.qu8.gmall.bean.UserAddress;
+import ru.qu8.gmall.service.UserService;
 
 import java.util.Arrays;
 import java.util.List;
-
-import com.atguigu.gmall.bean.UserAddress;
-import com.atguigu.gmall.service.UserService;
 
 public class UserServiceImpl implements UserService {
 

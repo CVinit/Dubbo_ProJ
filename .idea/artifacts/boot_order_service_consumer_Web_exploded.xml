@@ -2,12 +2,12 @@
   <artifact type="exploded-war" name="boot-order-service-consumer:Web exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/boot_order_service_consumer_Web_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="boot-order-service-consumer/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="boot-order-service-consumer" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="boot-order-service-consumer/web/Web" />
     </root>
   </artifact>
 </component>

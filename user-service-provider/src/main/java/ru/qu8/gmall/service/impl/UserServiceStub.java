@@ -1,11 +1,10 @@
-package com.atguigu.gmall.service.impl;
+package ru.qu8.gmall.service.impl;
 
 import java.util.List;
 
 import org.springframework.util.StringUtils;
-
-import com.atguigu.gmall.bean.UserAddress;
-import com.atguigu.gmall.service.UserService;
+import ru.qu8.gmall.bean.UserAddress;
+import ru.qu8.gmall.service.UserService;
 
 public class UserServiceStub implements UserService {
 	
