@@ -5,47 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4be6cd72-8f0e-4c5e-8a20-53ad7145ceec" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/ru/qu8/gmall/BootOrderServiceConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/ru/qu8/gmall/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/test/java/ru/qu8/gmall/BootOrderServiceConsumerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/ru/qu8/gmall/BootUserServiceProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/ru/qu8/gmall/service.impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/ru/qu8/gmall/service.impl/UserServiceImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/ru/qu8/gmall/service.impl/UserServiceStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/test/java/ru/qu8/gmall/BootUserServiceProviderApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/boot_order_service_consumer_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/boot_order_service_consumer_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/src/main/java/ru/qu8/gmall/bean/UserAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-interface/src/main/java/ru/qu8/gmall/bean/UserAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/src/main/java/ru/qu8/gmall/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-interface/src/main/java/ru/qu8/gmall/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/src/main/java/ru/qu8/gmall/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-interface/src/main/java/ru/qu8/gmall/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/java/ru/qu8/gmall/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/java/ru/qu8/gmall/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/java/ru/qu8/gmall/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/java/ru/qu8/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/java/ru/qu8/gmall/service/impl/UserServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/java/ru/qu8/gmall/service/impl/UserServiceStub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/java/ru/qu8/gmall/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/ru/qu8/gmall/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/java/ru/qu8/gmall/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/ru/qu8/gmall/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/java/ru/qu8/gmall/service/impl/UserServiceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/ru/qu8/gmall/service/impl/UserServiceImpl2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/java/ru/qu8/gmall/service/impl/UserServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/ru/qu8/gmall/service/impl/UserServiceStub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot-order-service-consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot-user-service-provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +23,21 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/boot-user-service-provider" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3a0bf39b-226b-446b-bb8a-8099e3318704" />
+        <option name="url" value="https://github.com/CVinit/Dubbo_ProJ.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,31 +61,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "8",
-    "last_opened_file_path": "E:/CSLearning/Dubbo/Dubbo_ProJ/boot-order-service-consumer/src/main/java/ru/qu8/gmall",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.17356321",
-    "settings.editor.selected.configurable": "http.proxy",
-    "spring.configuration.checksum": "4a7c4f79ee5540bd753f19cd92853147",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CSLearning/Dubbo/Dubbo_ProJ/boot-order-service-consumer/src/main/java/ru/qu8/gmall&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.17356321&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4a7c4f79ee5540bd753f19cd92853147&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\CSLearning\Dubbo\Dubbo_ProJ\boot-order-service-consumer\src\main\java\ru\qu8\gmall" />
@@ -126,7 +101,7 @@
       <recent name="ru.qu8.gmall" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BootUserServiceProviderApplication">
+  <component name="RunManager" selected="Spring Boot.BootOrderServiceConsumerApplication">
     <configuration name="MainApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.qu8.gmall.MainApplication" />
       <module name="order-service-consumer" />
@@ -167,7 +142,6 @@
     <configuration name="BootOrderServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="boot-order-service-consumer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ru.qu8.gmall.BootOrderServiceConsumerApplication" />
-      <option name="VM_PARAMETERS" value="-DsocksProxyHost=127.0.0.1 -DsocksProxyPort=10809" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,11 +180,32 @@
       <workItem from="1677167880072" duration="559000" />
       <workItem from="1677168454101" duration="243000" />
       <workItem from="1677210010670" duration="7787000" />
-      <workItem from="1677299751735" duration="8876000" />
+      <workItem from="1677299751735" duration="9391000" />
+      <workItem from="1677389794135" duration="5589000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1677341055172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677341055172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix error">
+      <created>1677341132938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677341132938</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="fix error" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix error" />
   </component>
 </project>
